@@ -23,10 +23,10 @@ import school.Diem;
  * @author ADMIN
  */
 public class MySQLHandler {
-    private String server = "GIGABYTE\\SQLEXPRESS";
-    private String user = "sa";
-    private String password = "c9q9md";
-    private String db = "StudentData_Test";
+    private String server = "";
+    private String user = "";
+    private String password = "";
+    private String db = "StudentData";
     private int port = 1433;
 
     private SQLServerDataSource ds;
