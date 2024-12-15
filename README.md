@@ -1,5 +1,7 @@
 Dự án được xây dựng để tương tác với Microsoft SQL Server 2022 Express.
 
+Dự án chỉ hỗ trợ tiếng Việt.
+
 Các tính năng chính:
 
 - Xem danh sách học sinh trong lớp
@@ -44,6 +46,8 @@ cho các giáo viên khác, họ cũng có các chức năng khác mà giáo vi�
 
 --------------------------------------------------------------------------------------------------------------------------
 The project was build to interact with Microsoft SQL Server 2022 Express.
+
+The project only supports Vietnamese.
 
 Main features:
 
